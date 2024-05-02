@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Upender Kaveti</h1>
 <h3 align="center">A passionate Machine Learning and Data Science graduate student.</h3>
 
+- 📫 How to reach me **ukaveti@buffalo.edu , upenderkaveti222@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/upender-kaveti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="upender-kaveti" height="30" width="40" /></a>
